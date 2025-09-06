@@ -1,0 +1,1 @@
+# to-check-wheather-a-number-is-divisible-by-an-number.python
